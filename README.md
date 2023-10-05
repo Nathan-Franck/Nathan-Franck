@@ -2,7 +2,7 @@ Hello!
 
 Professional Game Developer / Game Tool Developer
 
-Side projects built in Typescript and learning Zig
+Side projects built in Unity, or Typescript, learning Zig
 
 Hobby persuing graphics/art tooling workflows, better more flexible game engine pipelines, ultimately want to produce games.
 
